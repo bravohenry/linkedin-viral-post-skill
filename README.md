@@ -1,6 +1,6 @@
 # LinkedIn Viral Post Skill
 
-I analyzed 40+ posts with 100,000+ impressions
+Allen analyzed 40+ posts with 100,000+ impressions
 
 Here's the exact framework that works every time 🚀
 
